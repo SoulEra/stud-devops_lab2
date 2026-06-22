@@ -8,5 +8,5 @@ ansible --version
 ```
 Запуск плейбука:
 ```
-ansible-playbook -i inventory nginx.yml 
+ansible-playbook -i inventory lab-nginx.yml 
 ```
